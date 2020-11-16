@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "18464601836",
+    "firebase_url": "https://authtests-1ba2d.firebaseio.com",
+    "project_id": "authtests-1ba2d",
+    "storage_bucket": "authtests-1ba2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18464601836:android:2357298f29e762ee14d7c9",
+        "android_client_info": {
+          "package_name": "com.chargynov.authtests"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18464601836-v6kh6phc4c8l8kjd07fhj747dpc38jiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDdXX4MiR5fnjN4RpXMZynTkSysUPOopk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18464601836-v6kh6phc4c8l8kjd07fhj747dpc38jiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
